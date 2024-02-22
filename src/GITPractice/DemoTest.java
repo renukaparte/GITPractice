@@ -13,4 +13,9 @@ public class DemoTest {
 
 	}
 
+	public void test()
+	{
+                System.out.println("test method");
+	}
+
 }
