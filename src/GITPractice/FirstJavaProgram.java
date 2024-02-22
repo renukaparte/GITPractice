@@ -7,6 +7,8 @@ public class FirstJavaProgram {
 		System.out.println("Hello Java..");
 		
 		System.out.println("New branch");
+		
+		System.out.println("old test case");
 	}
 
 }
