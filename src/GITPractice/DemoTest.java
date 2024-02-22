@@ -6,7 +6,8 @@ public class DemoTest {
 		
 		System.out.println("Stash demo");
 		
-		int a=10;
+		int a=5;
+
 		
 		System.out.println("New comment");
 
