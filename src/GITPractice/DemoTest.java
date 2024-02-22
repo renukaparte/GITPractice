@@ -10,6 +10,7 @@ public class DemoTest {
 
 		System.out.println("New comment");
 		
+		int n=12;
 
 	}
 
